@@ -1,0 +1,113 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPO9H++MBpmarFfPcfMf9jd",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Manasa261/skillcraft-technologies/blob/main/brand_persona%20and%20voice%20guide\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 139
+        },
+        "id": "eW3J6RO2YYXH",
+        "outputId": "1c39c037-ed18-4bef-ec00-786d2274bd79"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "'\\n### **1. Brand Persona: The Curious Inventor**\\n\\n* **Archetype:** The Creator / The Magician\\n* **Personality:** Intelligent, Witty, Imaginative, Passionate, Nostalgic, Whimsical, Eccentric.\\n* **Core Belief:** Objects should have a story and inspire a sense of wonder.\\n\\n---\\n\\n### **2. Target Audience: The Makers & Dreamers**\\n\\n* **Interests:** Steampunk, DIY, cosplay, retro-futurism, independent artists, speculative fiction.\\n* **Values:** Authenticity, craftsmanship, individuality, storytelling.\\n* **Persona: \"Eleanor, the Modern Alchemist\"**\\n    * Age: Late 30s\\n    * Occupation: Graphic Designer\\n    * Goal: To find unique, meaningful items that express her creative identity and passion for a fantastical world.\\n\\n---\\n\\n### **3. Brand Voice Guide**\\n\\n* **Tone:** Whimsical, Clever, Passionate.\\n* **Vocabulary:** Contraption, gizmo, alchemy, ether, blueprint, marvel, chronicle, artisan, clockwork, fantastical.\\n* **Syntax:** Descriptive, storytelling-focused, with intentional punctuation for effect.\\n* **Key Principle:** Always speak from the perspective of an expert and a passionate storyteller.\\n\\n**Do\\'s and Don\\'ts:**\\n\\n* **Do:** Tell stories, use descriptive language, acknowledge the craft.\\n* **Don\\'t:** Use corporate jargon, sound dry or generic, focus solely on features.\\n\\n---\\n\\n### **4. Voice Examples**\\n\\n**Website Product Description (Cuff):**\\n\"Every good adventure needs a chronicle. This timepiece-inspired cuff is a tribute to the explorers of old, a wearable blueprint for your next great journey. Hand-tooled leather, polished brass gears, and a hint of arcane wonder—it\\'s more than a bracelet, it\\'s a testament to your own mechanical marvels.\"\\n\\n**Social Media Post (Instagram):**\\n\"The workshop is buzzing with new discoveries! We\\'ve just unloaded a fresh shipment of gears, sprockets, and other curious components. The alchemy of creation awaits! What fantastical contraption will you invent today? ⚙️ #Steampunk #MakerLife #Handmade\"\\n\\n**Email Subject Line:**\\n\"A Chronicle of Curiosities Has Arrived...\"\\n\\n**Customer Service Response:**\\n\"Ah, an excellent question! The \\'Aether Compass\\' is precisely 2.3 inches in diameter, a perfect size to tuck into your waistcoat pocket or wear as a statement pendant. A small marvel for a grand adventure!\"\\n'"
+            ],
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            }
+          },
+          "metadata": {},
+          "execution_count": 2
+        }
+      ],
+      "source": [
+        "# Stardust & Sprockets: Brand Persona and Voice Guide\n",
+        "\n",
+        "## Brand Name: Stardust & Sprockets\n",
+        "## Slogan: Where Imagination is the Blueprint.\n",
+        "## Brand Mission: To inspire creativity and self-expression through handcrafted, Steampunk-inspired accessories and home decor.\n",
+        "\n",
+        "\"\"\"\n",
+        "### **1. Brand Persona: The Curious Inventor**\n",
+        "\n",
+        "* **Archetype:** The Creator / The Magician\n",
+        "* **Personality:** Intelligent, Witty, Imaginative, Passionate, Nostalgic, Whimsical, Eccentric.\n",
+        "* **Core Belief:** Objects should have a story and inspire a sense of wonder.\n",
+        "\n",
+        "---\n",
+        "\n",
+        "### **2. Target Audience: The Makers & Dreamers**\n",
+        "\n",
+        "* **Interests:** Steampunk, DIY, cosplay, retro-futurism, independent artists, speculative fiction.\n",
+        "* **Values:** Authenticity, craftsmanship, individuality, storytelling.\n",
+        "* **Persona: \"Eleanor, the Modern Alchemist\"**\n",
+        "    * Age: Late 30s\n",
+        "    * Occupation: Graphic Designer\n",
+        "    * Goal: To find unique, meaningful items that express her creative identity and passion for a fantastical world.\n",
+        "\n",
+        "---\n",
+        "\n",
+        "### **3. Brand Voice Guide**\n",
+        "\n",
+        "* **Tone:** Whimsical, Clever, Passionate.\n",
+        "* **Vocabulary:** Contraption, gizmo, alchemy, ether, blueprint, marvel, chronicle, artisan, clockwork, fantastical.\n",
+        "* **Syntax:** Descriptive, storytelling-focused, with intentional punctuation for effect.\n",
+        "* **Key Principle:** Always speak from the perspective of an expert and a passionate storyteller.\n",
+        "\n",
+        "**Do's and Don'ts:**\n",
+        "\n",
+        "* **Do:** Tell stories, use descriptive language, acknowledge the craft.\n",
+        "* **Don't:** Use corporate jargon, sound dry or generic, focus solely on features.\n",
+        "\n",
+        "---\n",
+        "\n",
+        "### **4. Voice Examples**\n",
+        "\n",
+        "**Website Product Description (Cuff):**\n",
+        "\"Every good adventure needs a chronicle. This timepiece-inspired cuff is a tribute to the explorers of old, a wearable blueprint for your next great journey. Hand-tooled leather, polished brass gears, and a hint of arcane wonder—it's more than a bracelet, it's a testament to your own mechanical marvels.\"\n",
+        "\n",
+        "**Social Media Post (Instagram):**\n",
+        "\"The workshop is buzzing with new discoveries! We've just unloaded a fresh shipment of gears, sprockets, and other curious components. The alchemy of creation awaits! What fantastical contraption will you invent today? ⚙️ #Steampunk #MakerLife #Handmade\"\n",
+        "\n",
+        "**Email Subject Line:**\n",
+        "\"A Chronicle of Curiosities Has Arrived...\"\n",
+        "\n",
+        "**Customer Service Response:**\n",
+        "\"Ah, an excellent question! The 'Aether Compass' is precisely 2.3 inches in diameter, a perfect size to tuck into your waistcoat pocket or wear as a statement pendant. A small marvel for a grand adventure!\"\n",
+        "\"\"\""
+      ]
+    }
+  ]
+}
